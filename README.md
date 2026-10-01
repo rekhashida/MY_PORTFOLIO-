@@ -29,7 +29,8 @@ This site presents my data analysis, machine learning and full-stack AI projects
 | Customer Churn Prediction | Predicts telecom churn with 79.84% accuracy, deployed as a live Streamlit app |
 | E-commerce Sales Analysis | Finds $100K+ in losses across 9,994 orders with Python, SQL and Power BI |
 | KrishiMitra+ | Crop disease detection (about 98% validation accuracy) plus a farmer and worker marketplace |
-| ExpenseAI | AI-powered personal finance app for Indian users |
+| WhosMyMate | Roommate matching app with weighted compatibility scores and AI match explanations |
+| Tripzy | Ride-hailing app with an AI chatbot, fare prediction and driver anomaly detection |
 
 ## Tech stack
 
