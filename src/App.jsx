@@ -49,7 +49,7 @@ function Hero() {
         <h1>Rekha Sida</h1>
         <p className="lead">I turn messy data into decisions with Python, SQL, Power BI and machine learning. Final-year computer engineering student, open to data roles and internships.</p>
         <a className="btn fill" href="#projects">View projects</a>
-        <a className="btn line" href={LINKS.email}>Hire me</a>
+        <a className="btn line" href={LINKS.email}>Contact Me</a>
         <a
           className="btn line"
           href={LINKS.resume || "/Rekha_Sida_Resume.pdf"}
